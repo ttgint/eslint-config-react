@@ -1,6 +1,6 @@
 {
   "name": "@ttgint/eslint-config-react",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "description": "ESLint config for React projects",
   "main": "index.js",
   "scripts": {
@@ -20,17 +20,22 @@
     "url": "https://github.com/ttgint/eslint-config-react/issues"
   },
   "homepage": "https://github.com/ttgint/eslint-config-react#readme",
+  "peerDependencies": {
+    "eslint": ">=5.x",
+    "prettier": "^1.15.3"
+  },
   "dependencies": {
-    "eslint": "^5.12.0",
-    "prettier": "^1.15.3",
     "babel-eslint": "9.x",
     "eslint-config-airbnb": "17.1.0",
     "eslint-plugin-import": "2.14.0",
     "eslint-plugin-jsx-a11y": "6.1.2",
     "eslint-config-react-app": "3.0.6",
     "eslint-plugin-react": "7.12.3",
-    "eslint-plugin-flowtype": "2.x",
     "eslint-config-prettier": "3.3.0",
     "eslint-plugin-prettier": "3.0.1"
+  },
+  "devDependencies": {
+    "eslint": ">=5.x",
+    "prettier": "^1.15.3"
   }
 }

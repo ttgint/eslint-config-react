@@ -1,5 +1,7 @@
 # ttgint/eslint-config-react
 
+ESLint config for React projects generated with `create-react-app`
+
 ## Installation
 
 `npm i eslint prettier @ttgint/eslint-config-react --save-dev`
@@ -27,4 +29,5 @@ or to the `.eslintrc`
 ## Acknowledgments
 
 - Based on [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb)
+- Based on [eslint-config-create-react-app](https://www.npmjs.com/package/eslint-config-react-app)
 - See this great [article](https://medium.com/@natterstefan/how-to-create-your-own-shared-eslint-prettier-and-stylelint-configuration-3930dd764de3)
