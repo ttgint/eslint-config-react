@@ -29,6 +29,8 @@
     "eslint-plugin-jsx-a11y": "6.1.2",
     "eslint-config-react-app": "3.0.6",
     "eslint-plugin-react": "7.12.3",
-    "eslint-plugin-flowtype": "2.x"
+    "eslint-plugin-flowtype": "2.x",
+    "eslint-config-prettier": "3.3.0",
+    "eslint-plugin-prettier": "3.0.1"
   }
 }
