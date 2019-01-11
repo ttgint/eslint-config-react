@@ -1,0 +1,41 @@
+{
+  "name": "@ttgint/eslint-config-react",
+  "version": "1.0.0",
+  "description": "ESLint config for React projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttgint/eslint-config-react.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "author": "Cemre Mengu <cemre.mengu@ttgint.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ttgint/eslint-config-react/issues"
+  },
+  "homepage": "https://github.com/ttgint/eslint-config-react#readme",
+  "peerDependencies": {
+    "eslint": "^5.12.0",
+    "prettier": "^1.15.3"
+  },
+  "dependencies": {
+    "babel-eslint":"9.x",
+    "eslint-config-airbnb": "17.1.0",
+    "eslint-plugin-import":"2.14.0",
+    "eslint-plugin-jsx-a11y": "6.1.2",
+    "eslint-config-react-app": "3.0.6",
+    "eslint-plugin-react": "7.12.3",
+    "eslint-plugin-flowtype":"2.x"
+
+  },
+  "devDependencies": {
+    "eslint": "^5.12.0",
+    "prettier": "^1.15.3"
+  }
+}
