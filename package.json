@@ -4,16 +4,13 @@
   "description": "ESLint config for React projects",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "standard --fix | snazzy"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ttgint/eslint-config-react.git"
   },
-  "keywords": [
-    "eslint",
-    "eslint-config"
-  ],
   "author": "Cemre Mengu <cemre.mengu@ttgint.com>",
   "license": "MIT",
   "bugs": {
@@ -31,11 +28,13 @@
     "eslint-plugin-jsx-a11y": "6.1.2",
     "eslint-config-react-app": "3.0.6",
     "eslint-plugin-react": "7.12.3",
-    "eslint-config-prettier": "3.3.0",
+    "eslint-config-prettier": "3.4.0",
     "eslint-plugin-prettier": "3.0.1"
   },
   "devDependencies": {
     "eslint": ">=5.x",
-    "prettier": "^1.15.3"
+    "prettier": "^1.15.3",
+    "snazzy": "^8.0.0",
+    "standard": "^12.0.1"
   }
 }
