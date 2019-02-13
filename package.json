@@ -1,6 +1,6 @@
 {
   "name": "@ttgint/eslint-config-react",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "ESLint config for React projects",
   "main": "index.js",
   "scripts": {
