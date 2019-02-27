@@ -1,6 +1,8 @@
 # ttgint/eslint-config-react
 
-![npm](https://img.shields.io/npm/v/@ttgint/eslint-config-react.svg) [![Build Status](https://travis-ci.org/ttgint/eslint-config-react.svg?branch=master)](https://travis-ci.org/ttgint/eslint-config-react) [![Greenkeeper badge](https://badges.greenkeeper.io/ttgint/eslint-config-react.svg)](https://greenkeeper.io/)
+[![npm](https://img.shields.io/npm/v/@ttgint/eslint-config-react.svg)](https://www.npmjs.com/package/@ttgint/eslint-config)
+[![Build Status](https://travis-ci.org/ttgint/eslint-config-react.svg?branch=master)](https://travis-ci.org/ttgint/eslint-config-react)
+[![Greenkeeper badge](https://badges.greenkeeper.io/ttgint/eslint-config-react.svg)](https://greenkeeper.io/)
 
 ESLint config for React projects generated with `create-react-app`
 
