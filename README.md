@@ -1,6 +1,6 @@
 # ttgint/eslint-config-react
 
-[![npm](https://img.shields.io/npm/v/@ttgint/eslint-config-react.svg)](https://www.npmjs.com/package/@ttgint/eslint-config)
+[![npm](https://img.shields.io/npm/v/@ttgint/eslint-config-react.svg)](https://www.npmjs.com/package/@ttgint/eslint-config-react)
 [![Build Status](https://travis-ci.org/ttgint/eslint-config-react.svg?branch=master)](https://travis-ci.org/ttgint/eslint-config-react)
 [![Greenkeeper badge](https://badges.greenkeeper.io/ttgint/eslint-config-react.svg)](https://greenkeeper.io/)
 
