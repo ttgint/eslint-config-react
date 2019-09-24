@@ -7,6 +7,7 @@ module.exports = {
     "react/jsx-filename-extension": [1, { extensions: [".js", ".jsx"] }],
     "react/jsx-wrap-multilines": "off",
     "react/no-did-update-set-state": "off",
-    "react/destructuring-assignment": "off"
+    "react/destructuring-assignment": "off",
+    "no-underscore-dangle":  ["error", { "allow": ["_embedded"] }]
   }
 };
