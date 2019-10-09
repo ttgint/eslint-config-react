@@ -1,6 +1,5 @@
 {
   "name": "test",
-  "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
     "react-scripts": "^3.0.1"
@@ -14,6 +13,5 @@
   },
   "eslintConfig": {
     "extends": "@ttgint/eslint-config-react"
-  },
-  "license": "MIT"
+  }
 }
