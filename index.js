@@ -8,6 +8,7 @@ module.exports = {
     "react/jsx-wrap-multilines": "off",
     "react/no-did-update-set-state": "off",
     "react/destructuring-assignment": "off",
-    "no-underscore-dangle":  ["error", { "allow": ["_embedded"] }]
+    "no-underscore-dangle":  ["error", { "allow": ["_embedded"] }],
+    "react/prop-types": 0
   }
 };
