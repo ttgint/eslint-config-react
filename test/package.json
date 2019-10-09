@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "react-scripts": "^3.0.1"
+  },
+  "devDependencies": {
+    "@ttgint/eslint-config-react": "^2.0.0",
+    "eslint": "^6.3.0",
+    "husky": "^2.3.0",
+    "lint-staged": "^8.1.7",
+    "prettier": "^1.17.1"
+  },
+  "eslintConfig": {
+    "extends": "@ttgint/eslint-config-react"
+  },
+  "license": "MIT"
+}
