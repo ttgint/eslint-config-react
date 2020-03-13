@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "babel-eslint": "10.x",
-    "eslint-config-airbnb": "18.0.1",
+    "eslint-config-airbnb": "18.1.0",
     "eslint-plugin-import": "2.x",
     "eslint-plugin-jsx-a11y": "6.x",
     "eslint-config-react-app": "5.1.0",
